@@ -68,7 +68,7 @@ body {
 }
 
 #menu-background-image {
-  background-image: url("./src/background_img.jpg");
+  background-image: url("https://raw.githubusercontent.com/SebastienHiggs/sebastienhiggs.github.io/main/src/background_img.jpg"); <!--url("./src/background_img.jpg");-->
   background-position: center;
   background-size: cover;
   height: 100%;
