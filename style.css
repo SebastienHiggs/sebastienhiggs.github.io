@@ -68,7 +68,7 @@ body {
 }
 
 #menu-background-image {
-  background-image: "./src/background_img.jpg";
+  background-image: url("./src/background_img.jpg");
   background-position: center;
   background-size: cover;
   height: 100%;
